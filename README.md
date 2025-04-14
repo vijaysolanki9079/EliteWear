@@ -2,7 +2,7 @@
 
 A modern, responsive e-commerce platform built with React and TypeScript, offering a premium shopping experience for fashion enthusiasts.
 
-![EliteWear Preview](public/preview.png)
+![EliteWear Preview](preview.png)
 
 ## 🚀 Features
 
