@@ -53,22 +53,22 @@ Before you begin, ensure you have the following installed:
 
 2. **Install dependencies**
    ```bash
-   npm install
+   bun install
    ```
 
 3. **Start the development server**
    ```bash
-   npm run dev
+   bun dev
    ```
 
 4. **Build for production**
    ```bash
-   npm run build
+   bun run build
    ```
 
 5. **Preview production build**
    ```bash
-   npm run preview
+   bun run preview
    ```
 
 ## 🏗️ Project Structure
@@ -102,10 +102,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📞 Support
-
-For support, email support@elitewear.com or join our Slack channel.
 
 ## 🙏 Acknowledgments
 
